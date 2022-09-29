@@ -19,23 +19,23 @@ Here are some ideas to get you started:
 
 ##### NOW
 
-- [AtlasVPM](https://www.atlasvpm.org/);
-- [CONCEPT](https://www.atlasvpm.org/concept/);
+- [AtlasVPM](https://www.atlasvpm.org/)
+- [CONCEPT](https://www.atlasvpm.org/concept/)
 - [RICAPPS](https://twitter.com/RICAPPS_Red)
-- [PHIRI](https://www.phiri.eu/);
-- [HealthyCloud](https://healthycloud.eu/);
-- [TEHDAS](https://tehdas.eu/);
-- [BY-COVID](https://by-covid.org/);
-- [ICCONIC](https://www.icconic.net/);
+- [PHIRI](https://www.phiri.eu/)
+- [HealthyCloud](https://healthycloud.eu/)
+- [TEHDAS](https://tehdas.eu/)
+- [BY-COVID](https://by-covid.org/)
+- [ICCONIC](https://www.icconic.net/)
 
 
 ##### BIO
 
 - 🏢 I'm currently working at **[Health Sciences Insitute in Aragon (IACS)](https://www.iacs.es/)**
 - ⚙️ I use daily: `.R`, `.SQL`, `.PY` 
-- 🌍 I'm mostly active in the **[AES](https://www.aes.es/)**
+- 🌍 I'm mostly active in the **[AES](https://www.aes.es/)**, in the (EVALUAES)[https://www.aes.es/evaluaes/presentacion/] interest group
 - 🌱 Learning all about **Data Science**
-- 👯 I’m looking to collaborate on **Federated Learning in Healthcare"
+- 👯 I’m looking to collaborate on **Federated Learning in Healthcare" and "Causal Inference" for Health Services and Policy research
 - 💬 Ping me about **data science**, **health services research**, **public health**, **data quality**, **federated learning**
 - 📫 Reach me: [twitter.com/pacoramon](https://twitter.com/pacoramon)
-- ⚡️ Fun fact: I'm from the Canary Islands
+- ⚡️ Fun fact: I'm from the Canary Islands! Gran Canaria rules!
