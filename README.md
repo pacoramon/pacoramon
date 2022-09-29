@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [HealthyCloud](https://healthycloud.eu/)
 - [TEHDAS](https://tehdas.eu/)
 - [BY-COVID](https://by-covid.org/)
-- [ICCONIC](https://www.icconic.net/)
+- [ICCONIC](https://hnhccomparisoncollaborative.wordpress.com/) 
 
 
 ##### BIO
