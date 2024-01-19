@@ -15,23 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm an epidemiologist, working in data science for health services and policy research in Aragón, Spain. 
+#### I'm an epidemiologist, working in the Data Science for Health Services and Policy Research Group in Aragón, Spain. 
 
-##### NOW
-
-- [AtlasVPM](https://www.atlasvpm.org/)
-- [CONCEPT](https://www.atlasvpm.org/concept/)
-- [RICAPPS](https://ricapps.es/)
-- [PHIRI](https://www.phiri.eu/)
-- [HealthyCloud](https://healthycloud.eu/)
-- [TEHDAS](https://tehdas.eu/)
-- [BY-COVID](https://by-covid.org/)
-- [ICCONIC](https://hnhccomparisoncollaborative.wordpress.com/) 
-
-
-##### BIO
-
+##### SHORT BIO
 - 🏢 I'm currently working at **[Health Sciences Institute in Aragon (IACS)](https://www.iacs.es/)**
+- 🔭 I'm doing a PhD in Medicine at the University of Zaragoza
 - ⚙️ I use daily: `.R`, `.SQL`, `.PY` 
 - 🌍 I'm mostly active in the **[AES](https://www.aes.es/)**, in the [EVALUAES](https://www.aes.es/evaluaes/presentacion/) interest group
 - 🌱 Learning all about **Data Science**
@@ -39,3 +27,21 @@ Here are some ideas to get you started:
 - 💬 Ping me about **data science**, **health services research**, **public health**, **data quality**, **federated learning**
 - 📫 Reach me: [twitter.com/pacoramon](https://twitter.com/pacoramon)
 - ⚡️ Fun fact: I'm from the Canary Islands! Gran Canaria rules!
+
+##### NOW WORKING ON:
+- [AtlasVPM](https://www.atlasvpm.org/)
+- [CONCEPT](https://www.atlasvpm.org/concept/)
+- [RICAPPS](https://ricapps.es/)
+- [BY-COVID](https://by-covid.org/)
+- [ICCONIC](https://hnhccomparisoncollaborative.wordpress.com/)
+- [EHDS2 HealthData@EU Pilot](https://ehds2pilot.eu/)
+- [QUANTUM-CSA](https://www.quantumproject.eu/)
+
+##### PAST PROJECTS:
+- [HealthyCloud](https://healthycloud.eu/)
+- [TEHDAS](https://tehdas.eu/)
+- [PHIRI](https://www.phiri.eu/)
+- [REDISSEC](https://www.redissec.com/)
+- [ICTUSnet SUDOE](https://ictusnet-sudoe.eu/en/)
+- [ECHO-HEALTH](https://cienciadedatosysalud.org/echo/)
+
