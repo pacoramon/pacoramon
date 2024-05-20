@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `.R`, `.SQL`, `.PY` 
 - 🌍 I'm mostly active in the **[AES](https://www.aes.es/)**, in the [EVALUAES](https://www.aes.es/evaluaes/presentacion/) interest group
 - 🌱 Learning all about **Data Science**
-- 👯 I’m looking to collaborate on **Federated Learning in Healthcare" and "Causal Inference" for Health Services and Policy Research
+- 👯 I’m looking to collaborate on _**Federated Learning in Healthcare**_ and _**Causal Inference**_ for Health Services and Policy Research
 - 💬 Ping me about **data science**, **health services research**, **public health**, **data quality**, **federated learning**
 - 📫 Reach me: [twitter.com/pacoramon](https://twitter.com/pacoramon)
 - ⚡️ Fun fact: I'm from the Canary Islands! Gran Canaria rules!
