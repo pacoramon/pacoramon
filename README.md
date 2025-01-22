@@ -15,29 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm an epidemiologist, working in the Data Science for Health Services and Policy Research Group in Aragón, Spain. 
+#### I'm an epidemiologist working as a Data Scientist in the Data Science for Health Services and Policy Research Group in Aragón, Spain. 
 
 ##### SHORT BIO
 - 🏢 I'm currently working at **[Health Sciences Institute in Aragon (IACS)](https://www.iacs.es/)**
-- 🔭 I'm doing a PhD in Medicine at the University of Zaragoza
+- 🔭 I'm doing a PhD in Medicine at the [University of Zaragoza](https://www.unizar.es/)
 - ⚙️ I use daily: `.R`, `.SQL`, `.PY` 
-- 🌍 I'm mostly active in the **[AES](https://www.aes.es/)**, in the [EVALUAES](https://www.aes.es/evaluaes/presentacion/) interest group
+- 🌍 I'm mostly active in the **[AES](https://www.aes.es/)**
 - 🌱 Learning all about **Data Science**
 - 👯 I’m looking to collaborate on _**Federated Learning in Healthcare**_ and _**Causal Inference**_ for Health Services and Policy Research
 - 💬 Ping me about **data science**, **health services research**, **public health**, **data quality**, **federated learning**
 - 📫 Reach me: [twitter.com/pacoramon](https://twitter.com/pacoramon)
-- ⚡️ Fun fact: I'm from the Canary Islands! Gran Canaria rules!
+- ⚡️ Fun fact: I live in Zaragoza but I am originally from Gran Canaria, in the Canary Islands!
 
 ##### NOW WORKING ON:
 - [AtlasVPM](https://www.atlasvpm.org/)
 - [CONCEPT](https://www.atlasvpm.org/concept/)
 - [RICAPPS](https://ricapps.es/)
-- [BY-COVID](https://by-covid.org/)
 - [ICCONIC](https://hnhccomparisoncollaborative.wordpress.com/)
-- [EHDS2 HealthData@EU Pilot](https://ehds2pilot.eu/)
 - [QUANTUM-CSA](https://www.quantumproject.eu/)
 
 ##### PAST PROJECTS:
+- [EHDS2 HealthData@EU Pilot](https://ehds2pilot.eu/)
+- [BY-COVID](https://by-covid.org/)
 - [HealthyCloud](https://healthycloud.eu/)
 - [TEHDAS](https://tehdas.eu/)
 - [PHIRI](https://www.phiri.eu/)
